@@ -107,6 +107,6 @@ Frame interpolation and machine learning techniques have revolutionized video pr
 
 ### Resources
 
-- [RIFE GitHub Repository]((https://github.com/Arnidh/Practical-RIFE))
-- [DAIN GitHub Repository]((https://github.com/Arnidh/DAIN))
-- [Image generation GitHub Repository]((https://github.com/Arnidh/imagegen))
+- [RIFE GitHub Repository](https://github.com/Arnidh/Practical-RIFE)
+- [DAIN GitHub Repository](https://github.com/Arnidh/DAIN)
+- [Image generation GitHub Repository](https://github.com/Arnidh/imagegen)
